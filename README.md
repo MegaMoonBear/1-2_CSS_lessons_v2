@@ -1,1 +1,1 @@
-# 1-2_CSS_lessons_v2
+#See index.html, styles.css, and both "rocket", HTML files
